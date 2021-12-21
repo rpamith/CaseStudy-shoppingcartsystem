@@ -1,0 +1,8 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: Product-Service
+  data:
+    mongodb:
+      uri: mongodb+srv://ramith:test@cluster0.u7eyj.mongodb.net/product
